@@ -1,0 +1,50 @@
+.rouge {
+    background-color: rgb(243, 127, 127);
+    color: white;
+
+}
+
+.vert {
+    background-color: rgb(111, 240, 111);
+    color: white;
+
+}
+
+.orange {
+    background-color: rgb(219, 177, 98);
+    color: white;
+    ;
+
+}
+
+.note {
+
+    padding: 5px 10px;
+    margin: 2px;
+    border-radius: 5px;
+    color: black;
+
+
+
+
+
+}
+
+#moy {
+    padding: 5px 10px;
+    margin: 2px;
+    border-radius: 5px;
+    background-color: rgb(177, 249, 249);
+}
+
+
+div {
+
+    background-color: whitesmoke;
+    color: black;
+    display: inline-block;
+    float: left;
+    width: 50%;
+
+
+}
